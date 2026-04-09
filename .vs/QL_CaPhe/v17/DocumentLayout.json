@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My PC\\source\\repos\\Nhapkho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B440CF-FD90-4B64-965B-065771839D49}|Nhapkho\\QL_CaPhe.csproj|c:\\users\\my pc\\source\\repos\\nhapkho\\nhapkho\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B440CF-FD90-4B64-965B-065771839D49}|Nhapkho\\QL_CaPhe.csproj|solutionrelative:nhapkho\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B440CF-FD90-4B64-965B-065771839D49}|Nhapkho\\QL_CaPhe.csproj|C:\\Users\\My PC\\source\\repos\\Nhapkho\\nhapkho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B440CF-FD90-4B64-965B-065771839D49}|Nhapkho\\QL_CaPhe.csproj|solutionrelative:nhapkho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Nhapkho\\Nhapkho\\Program.cs",
+              "RelativeDocumentMoniker": "Nhapkho\\Program.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Nhapkho\\Nhapkho\\Program.cs",
+              "RelativeToolTip": "Nhapkho\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T13:02:10.185Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Nhapkho\\Nhapkho\\frmMain.cs",
+              "RelativeDocumentMoniker": "Nhapkho\\frmMain.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Nhapkho\\Nhapkho\\frmMain.cs",
+              "RelativeToolTip": "Nhapkho\\frmMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:24:13.067Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

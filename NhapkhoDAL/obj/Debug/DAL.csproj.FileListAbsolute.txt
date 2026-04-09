@@ -1,0 +1,9 @@
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\bin\Debug\NhapkhoDAL.dll
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\bin\Debug\NhapkhoDAL.pdb
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\bin\Debug\NhapkhoDTO.dll
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\bin\Debug\NhapkhoDTO.pdb
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\obj\Debug\NhapkhoDAL.dll
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDAL\obj\Debug\NhapkhoDAL.pdb

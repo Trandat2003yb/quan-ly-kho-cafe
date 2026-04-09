@@ -1,0 +1,6 @@
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDTO\bin\x86\Debug\NhapkhoDTO.dll
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDTO\bin\x86\Debug\NhapkhoDTO.pdb
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDTO\obj\x86\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDTO\obj\x86\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDTO\obj\x86\Debug\NhapkhoDTO.dll
+C:\Users\My PC\source\repos\Nhapkho\NhapkhoDTO\obj\x86\Debug\NhapkhoDTO.pdb
